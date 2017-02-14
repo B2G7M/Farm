@@ -1,7 +1,13 @@
 html {
   color: #040404;
   font-family: 'Roboto', sans-serif;
+}
 
+.big {
+  font-size: 5em;
+  color: #fff;
+  line-height: 1em;
+  padding-top: 2em;
 }
 
 .saturate {
@@ -114,12 +120,7 @@ nav {
   margin-right: 0;
   margin-top: 1em;
 }
-/*Navigation Bar End*/
 
-/*footer {
-  bottom: 0;
-  position: absolute;
-}*/
 .center {
   text-align: center;
 }
