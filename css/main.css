@@ -1,6 +1,7 @@
 html {
   color: #040404;
   font-family: 'Roboto', sans-serif;
+  background-color: #f2f2f2;
 }
 
 .saturate {
@@ -22,6 +23,14 @@ html {
 
   filter: grayscale(10%);
 }
+
+footer {
+  background-color: #3a85ff;
+  padding: 0.5em;
+  color: #f2f2f2;
+  margin-top: 1em;
+}
+
 .margin-zero {
   margin: 0 auto;
 }
